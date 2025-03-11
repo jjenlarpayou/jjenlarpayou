@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjenlarpayou" alt="jjenlarpayou" /></a> </p>
 
+<h3 align="left">About me:</h3>
+<p align="left">👨‍💻I'm on track for pursuing data scientist career and trying to learn more about Artificial Intelligence</p>
+<p align="left">&#x1F393; I'm currently new Data Scientist with in a Master's in Data Science from The University of Queensland (2023-2024)</p>
+<p align="left">&#x1F3C3; In my free time, I like to do some exercises to release stress to stay healthy</p>
+<p align="left">&#128233; You can email me at j.jenlarpayn@gmail.com</p>
+<p align="left">&#x1F4CB; You can check my Resume for more details</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/au jwattanakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="au jwattanakul" height="30" width="40" /></a>
